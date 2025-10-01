@@ -19,7 +19,7 @@ public class KombinovanaPoruka extends Poruka{
 
     @Override
     protected String formirajSadrzinu() {
-        return "";
+        return "Ovako je sa novom granom";
     }
 
     public List<Poruka> getSadrzina() {
