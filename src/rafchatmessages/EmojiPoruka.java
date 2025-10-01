@@ -11,7 +11,7 @@ public class EmojiPoruka extends Poruka{
 
     @Override
     protected String formirajSadrzinu() {
-        return "";
+        return "Nova sadrzina, promena zbog gita";
     }
 
     public Emoji getEmoji() {
